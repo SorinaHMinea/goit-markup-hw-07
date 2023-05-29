@@ -1,0 +1,15 @@
+$link-color: #2196f3;
+$text-color: #ffffff;
+$heading-color: #212121;
+$alternative-color: #2f303a;
+$text-font-family: "Roboto", sans-serif;
+$logo-font-family: "Raleway", sans-serif;
+
+:root {
+  --link-color: #{$link-color};
+  --text-color: #{$text-color};
+  --heading-color: #{$heading-color};
+  --alternative-color: #{$alternative-color};
+  --text-font-family: #{$text-font-family};
+  --logo-font-family: #{$logo-font-family};
+}
